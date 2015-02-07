@@ -5,3 +5,5 @@ added new line
 change in demo file
 
 change by user 1
+
+conflict by user-1
